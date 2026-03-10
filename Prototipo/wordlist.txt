@@ -6,9 +6,6 @@ local
 segredo
 senha
 qwerty
-carlos 
-serrao
-serrão
 mestrado
 ISCTE
 iscte
@@ -25,8 +22,5 @@ teste123
 minhaSenha123
 mysecret
 ciber2024
-joaomateus
+joao
 cartel123
-pedrocarreiras
-andreestevao
-joaopedroandre
